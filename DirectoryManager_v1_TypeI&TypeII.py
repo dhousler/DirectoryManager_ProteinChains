@@ -299,7 +299,8 @@ def MoveLigandFiles_TypeII(chain_number):
     print("\nAll files can be found in the following directories: \n")
     
     for k in range(1,chain_number+1):
-        path = start_directory + '/' + chains[k]  
+        path = start_directory + '\\' + chains[k] #windows
+        #path = start_directory + '/' + chains[k]  #Unix
         print(path)
         os.chdir(path)
         chain = chains[k]
