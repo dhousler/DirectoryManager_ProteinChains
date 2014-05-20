@@ -397,7 +397,7 @@ else:
             ### Move specific Protein and Ligand chain files into chain X_ligX secondary sub-directory
             MoveLigandFiles_TypeIII(ptn_chains_count,lig_chains_count,chains,lig_chains)
             ### Press key to exit
-            input("Press any key to exit!")
+            input("Press any key to exit.")
                 
 
                 
