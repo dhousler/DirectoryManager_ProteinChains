@@ -1,0 +1,10 @@
+                        CHAIN     POLAR     APOLAR
+
+ALL CONTACTS:             A         10         51
+PTN TO LIG CONTACTS:      A         10         51
+LIG TO PTN CONTACTS:      A         0         0
+
+ALL CONTACTS:             Z         10         51
+PTN TO LIG CONTACTS:      Z         0         0
+LIG TO PTN CONTACTS:      Z         10         51
+

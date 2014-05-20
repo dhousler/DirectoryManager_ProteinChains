@@ -22,7 +22,7 @@
 
 import os           #allows operating system commands
 import shutil       #allows file movement in different operating systems
-import re
+import re           #allows for regular expressions
 
 ########## Subroutines ##########
 
